@@ -1,0 +1,11 @@
+name: RandomTeleport
+main: me.dyq.Bukkit.RandomTeleport.Main
+version: 1.0
+
+permissions:
+    rtp.use:
+        description: Use sign with command
+        default: true
+    rtp.admin:
+        description: Create sign with command
+        default: OP
